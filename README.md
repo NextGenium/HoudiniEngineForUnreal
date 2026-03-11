@@ -1,3 +1,6 @@
+# DEPRECATED до UE5.6 использовали отдельные плагины для Hodini, сейчас объединили в один - https://github.com/NextGenium/Houdini
+
+
 # Houdini Engine for Unreal - Version 2
 
 > The source code in this branch is intended to be used with Unreal Engine 5.4 and 5.3, but should also be compatible with previous versions of UE5.
